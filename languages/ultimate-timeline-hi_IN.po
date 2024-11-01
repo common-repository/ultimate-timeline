@@ -1,0 +1,253 @@
+# Copyright (C) 2020 Weblizar
+# This file is distributed under the same license as the Ultimate Timeline - Responsive History Timeline block plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Timeline - Responsive History Timeline block "
+"1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ultimate-"
+"timeline\n"
+"Last-Translator: \n"
+"Language-Team: हिन्दी\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-11-03T07:46:03+01:00\n"
+"PO-Revision-Date: 2020-11-03 12:40+0530\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Domain: ultimate-timeline\n"
+"Language: hi_IN\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.4.4; wp-5.5.3\n"
+
+#. Plugin Name of the plugin
+msgid "Ultimate Timeline - Responsive History Timeline block"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://weblizar.com/ultimate-timeline/"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Ultimate Timeline plugin creates beautiful history time-lines on your "
+"website. It is responsive time-line showcase in DESC order based on posted "
+"date of stories with colors, fontawsome icons."
+msgstr ""
+
+#. Author of the plugin
+msgid "Weblizar"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "weblizar.com"
+msgstr ""
+
+#: admin/includes/meta_boxes/fa-icon-meta-box.php:40
+#: includes/fa-icons/fa-icons-class.php:92
+msgid "Add Icon"
+msgstr ""
+
+#: admin/includes/meta_boxes/fa-icon-meta-box.php:44
+#: includes/fa-icons/fa-icons-class.php:96
+msgid "Select Font Awesome Icon"
+msgstr ""
+
+#: admin/includes/meta_boxes/fa-icon-meta-box.php:46
+msgid "Search Icon.."
+msgstr ""
+
+#: admin/includes/meta_boxes/image-meta-box.php:23
+#: admin/includes/meta_boxes/image-meta-box.php:25
+msgid "Choose file"
+msgstr "फ़ाइल चुनें"
+
+#: admin/includes/meta_boxes/image-meta-box.php:30
+msgid "The image uploaded will be rendered inside the box below."
+msgstr "अपलोड की गई छवि नीचे बॉक्स के अंदर प्रदान की जाएगी।"
+
+#: admin/includes/meta_boxes/settings-meta-box.php:39
+msgid "Display Story Image"
+msgstr "प्रदर्शन स्टोरी छवि"
+
+#: admin/includes/meta_boxes/settings-meta-box.php:45
+msgid "Select Yes/No option to show/hide Image inside Story."
+msgstr ""
+
+#: admin/includes/meta_boxes/settings-meta-box.php:67
+msgid "Story Image"
+msgstr ""
+
+#: admin/includes/meta_boxes/settings-meta-box.php:73
+msgid ""
+"Select Full/Small Screen option to Show Image Full Or Small inside Story."
+msgstr ""
+
+#: admin/includes/meta_boxes/settings-meta-box.php:79
+msgid "Full Screen"
+msgstr ""
+
+#: admin/includes/meta_boxes/settings-meta-box.php:86
+msgid "Small Screen"
+msgstr ""
+
+#: admin/includes/meta_boxes/settings-meta-box.php:98
+msgid "Story Color"
+msgstr ""
+
+#: admin/includes/meta_boxes/settings-meta-box.php:104
+msgid "Choose color for your Story."
+msgstr ""
+
+#: admin/includes/meta_boxes/settings-meta-box.php:115
+msgid "Story Date"
+msgstr ""
+
+#: admin/includes/meta_boxes/settings-meta-box.php:122
+msgid ""
+"Please select story Story Date / Year / Time using datepicker only. Date "
+"Format( mm/dd/yy hh:mm )"
+msgstr ""
+
+#: admin/includes/meta_boxes/settings-meta-box.php:132
+#: admin/weblizar-timeline-options.php:77
+msgid "Back to top"
+msgstr ""
+
+#: admin/includes/WC_Timeline_Admin.php:5
+msgid "Timeline Options"
+msgstr "समयरेखा विकल्प"
+
+#: admin/includes/WC_Timeline_Options.php:29
+msgid "An unexpected error occurred."
+msgstr ""
+
+#: admin/includes/WC_Timeline_Options.php:31
+msgid "Timeline Options Updated Successfully !"
+msgstr ""
+
+#: admin/weblizar-timeline-meta-box.php:11
+msgid "Weblizar Timeline Story Image"
+msgstr ""
+
+#: admin/weblizar-timeline-meta-box.php:12
+msgid "Weblizar Timeline Story Settings"
+msgstr ""
+
+#: admin/weblizar-timeline-meta-box.php:13
+msgid "Weblizar Timeline Story Icon"
+msgstr ""
+
+#: admin/weblizar-timeline-options.php:16
+msgid "Timeline Settings"
+msgstr "टाइमलाइन सेटिंग"
+
+#: admin/weblizar-timeline-options.php:27
+msgid "Copy the Shortcode in any page to publish your Timeline"
+msgstr ""
+
+#: admin/weblizar-timeline-options.php:30
+#: admin/weblizar-timeline-post-type.php:81
+msgid "[weblizar_timeline]"
+msgstr ""
+
+#: admin/weblizar-timeline-options.php:35
+msgid "Default Settings"
+msgstr "डिफ़ॉल्ट सेटिंग्स"
+
+#: admin/weblizar-timeline-options.php:43
+#: admin/weblizar-timeline-options.php:50
+msgid "Timeline Title"
+msgstr ""
+
+#: admin/weblizar-timeline-options.php:52
+msgid "Enter Timeline Title to set as your Timeline Header Title"
+msgstr ""
+
+#: admin/weblizar-timeline-options.php:60
+msgid "Timeline Background Color"
+msgstr "टाइमलाइन बैकग्राउंड कलर"
+
+#: admin/weblizar-timeline-options.php:68
+msgid "Choose Default color for your Timeline Background."
+msgstr ""
+
+#: admin/weblizar-timeline-options.php:74
+msgid "Save Changes"
+msgstr "बदलाव सहेजें"
+
+#: admin/weblizar-timeline-post-type.php:59
+msgid "Not Matched"
+msgstr ""
+
+#: admin/weblizar-timeline-post-type.php:67
+msgid "*Please select story Date / Year from settings below the story content."
+msgstr "* कृपया कहानी की सामग्री के नीचे सेटिंग्स से कहानी दिनांक / वर्ष चुनें।"
+
+#: admin/weblizar-timeline-post-type.php:68
+msgid "Timeline Story Settings (Date/Year)"
+msgstr ""
+
+#: admin/weblizar-timeline-post-type.php:80
+msgid "Copy below shortcode in any Page to publish your Timeline"
+msgstr ""
+
+#: includes/fa-icons/fa-icons-class.php:61
+msgid "Select Story Icon"
+msgstr ""
+
+#: public/views/timeline_view.php:85
+msgid "Not Available"
+msgstr ""
+
+#: public/views/timeline_view.php:173
+msgid "END"
+msgstr ""
+
+#: public/WCT_ShortCode.php:46 public/WCT_ShortCode.php:47
+#: public/WCT_ShortCode.php:69
+msgid "Ultimate Timeline"
+msgstr ""
+
+#: public/WCT_ShortCode.php:48
+msgid "Parent Item:"
+msgstr ""
+
+#: public/WCT_ShortCode.php:49
+msgid "All Stories"
+msgstr ""
+
+#: public/WCT_ShortCode.php:50 public/WCT_ShortCode.php:51
+msgid "Add New Story"
+msgstr "नई कहानी जोड़ें"
+
+#: public/WCT_ShortCode.php:52
+msgid "New Story"
+msgstr "नई कहानी"
+
+#: public/WCT_ShortCode.php:53
+msgid "Edit Story"
+msgstr "संपादित करें कहानी"
+
+#: public/WCT_ShortCode.php:54
+msgid "Update Story"
+msgstr "अपडेट स्टोरी"
+
+#: public/WCT_ShortCode.php:55
+msgid "View Story"
+msgstr "देखें कहानी"
+
+#: public/WCT_ShortCode.php:56
+msgid "Search Story"
+msgstr "खोज कहानी"
+
+#: public/WCT_ShortCode.php:57
+msgid "Not found"
+msgstr "नहीं मिला"
+
+#: public/WCT_ShortCode.php:58
+msgid "Not found in Trash"
+msgstr "कचरे में नहीं मिला"
+
+#: public/WCT_ShortCode.php:71
+msgid "Timeline Post Type Description"
+msgstr "टाइमलाइन पोस्ट टाइप विवरण"
